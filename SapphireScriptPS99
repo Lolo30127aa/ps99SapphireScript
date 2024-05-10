@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/da09da33b3cc60a005c83454.lua'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/c60f85806bc179cbb8c83c06.lua'))()
 local Window = Library.CreateLib("💎Sapphire💎 / PS99 script by Midnight#9066", colors)
 
 local Tab = Window:NewTab("🐾PetDuping🐾")
